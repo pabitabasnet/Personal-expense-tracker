@@ -1,0 +1,35 @@
+body {
+  background-color: #f5f7fa;
+}
+
+.summary-card {
+  border: none;
+  border-radius: 0.75rem;
+}
+
+.summary-card .value {
+  font-size: 1.6rem;
+  font-weight: 700;
+}
+
+.txn-row td {
+  vertical-align: middle;
+}
+
+.category-bar-track {
+  background-color: #e9ecef;
+  border-radius: 4px;
+  height: 8px;
+  overflow: hidden;
+}
+
+.category-bar-fill {
+  background-color: #6f42c1;
+  height: 100%;
+}
+
+.empty-state {
+  text-align: center;
+  padding: 3rem 1rem;
+  color: #6c757d;
+}
